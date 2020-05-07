@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/bom-calculator/static/js/main.bc65afc1.chunk.js",
+    "main.js.map": "/bom-calculator/static/js/main.bc65afc1.chunk.js.map",
+    "runtime-main.js": "/bom-calculator/static/js/runtime-main.c1d5e224.js",
+    "runtime-main.js.map": "/bom-calculator/static/js/runtime-main.c1d5e224.js.map",
+    "static/js/2.e75151dd.chunk.js": "/bom-calculator/static/js/2.e75151dd.chunk.js",
+    "static/js/2.e75151dd.chunk.js.map": "/bom-calculator/static/js/2.e75151dd.chunk.js.map",
+    "index.html": "/bom-calculator/index.html",
+    "precache-manifest.efe8e4f2ee47e4317c75a4777dc1a7b6.js": "/bom-calculator/precache-manifest.efe8e4f2ee47e4317c75a4777dc1a7b6.js",
+    "service-worker.js": "/bom-calculator/service-worker.js",
+    "static/js/2.e75151dd.chunk.js.LICENSE.txt": "/bom-calculator/static/js/2.e75151dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1d5e224.js",
+    "static/js/2.e75151dd.chunk.js",
+    "static/js/main.bc65afc1.chunk.js"
+  ]
+}
