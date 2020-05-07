@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/bom-calculator/static/js/main.bc65afc1.chunk.js",
-    "main.js.map": "/bom-calculator/static/js/main.bc65afc1.chunk.js.map",
-    "runtime-main.js": "/bom-calculator/static/js/runtime-main.c1d5e224.js",
-    "runtime-main.js.map": "/bom-calculator/static/js/runtime-main.c1d5e224.js.map",
-    "static/js/2.e75151dd.chunk.js": "/bom-calculator/static/js/2.e75151dd.chunk.js",
-    "static/js/2.e75151dd.chunk.js.map": "/bom-calculator/static/js/2.e75151dd.chunk.js.map",
-    "index.html": "/bom-calculator/index.html",
-    "precache-manifest.efe8e4f2ee47e4317c75a4777dc1a7b6.js": "/bom-calculator/precache-manifest.efe8e4f2ee47e4317c75a4777dc1a7b6.js",
-    "service-worker.js": "/bom-calculator/service-worker.js",
-    "static/js/2.e75151dd.chunk.js.LICENSE.txt": "/bom-calculator/static/js/2.e75151dd.chunk.js.LICENSE.txt"
+    "main.js": "/calculator/static/js/main.b1e5e078.chunk.js",
+    "main.js.map": "/calculator/static/js/main.b1e5e078.chunk.js.map",
+    "runtime-main.js": "/calculator/static/js/runtime-main.1fde7ec2.js",
+    "runtime-main.js.map": "/calculator/static/js/runtime-main.1fde7ec2.js.map",
+    "static/js/2.2c54a33f.chunk.js": "/calculator/static/js/2.2c54a33f.chunk.js",
+    "static/js/2.2c54a33f.chunk.js.map": "/calculator/static/js/2.2c54a33f.chunk.js.map",
+    "index.html": "/calculator/index.html",
+    "precache-manifest.c24d9c2a8e7dd2e2bed1a3bfbc365ded.js": "/calculator/precache-manifest.c24d9c2a8e7dd2e2bed1a3bfbc365ded.js",
+    "service-worker.js": "/calculator/service-worker.js",
+    "static/js/2.2c54a33f.chunk.js.LICENSE.txt": "/calculator/static/js/2.2c54a33f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1d5e224.js",
-    "static/js/2.e75151dd.chunk.js",
-    "static/js/main.bc65afc1.chunk.js"
+    "static/js/runtime-main.1fde7ec2.js",
+    "static/js/2.2c54a33f.chunk.js",
+    "static/js/main.b1e5e078.chunk.js"
   ]
 }
