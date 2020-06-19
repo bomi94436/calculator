@@ -2,7 +2,7 @@
 
 ### development environment
 
-- react 3.4.1
+- react(create-react-app) 3.4.1
 - vscode
 
 <br>
